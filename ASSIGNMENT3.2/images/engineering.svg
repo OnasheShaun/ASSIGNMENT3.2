@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<rect width="600" height="400" rx="24" fill="#eaf7f1"/>
+<rect x="80" y="50" width="440" height="300" rx="18" fill="#176b55"/>
+<g stroke="#82dfb5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M130 125 H220 V190 H300 V120 H390 V180 H470"/>
+<path d="M130 275 H205 V235 H300 V290 H390 V245 H470"/>
+<path d="M220 190 V235"/><path d="M390 180 V245"/>
+</g>
+<g fill="#f8d66d" stroke="#fff2b3" stroke-width="4">
+<circle cx="130" cy="125" r="13"/><circle cx="470" cy="180" r="13"/>
+<circle cx="130" cy="275" r="13"/><circle cx="470" cy="245" r="13"/>
+<rect x="270" y="95" width="60" height="50" rx="6"/>
+<rect x="270" y="265" width="60" height="50" rx="6"/>
+</g>
+<text x="300" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#176b55" text-anchor="middle">ELECTRICAL ENGINEERING</text>
+</svg>

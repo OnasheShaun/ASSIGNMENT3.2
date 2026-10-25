@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<rect width="600" height="400" rx="24" fill="#eef2f7"/>
+<rect x="95" y="55" width="410" height="260" rx="16" fill="#253247"/>
+<rect x="115" y="78" width="370" height="215" rx="6" fill="#101a2b"/>
+<circle cx="135" cy="96" r="5" fill="#f07178"/><circle cx="153" cy="96" r="5" fill="#f6c85f"/><circle cx="171" cy="96" r="5" fill="#5fcf9b"/>
+<g font-family="monospace" font-size="20">
+<text x="140" y="140" fill="#8bd5ff">&lt;html&gt;</text>
+<text x="160" y="176" fill="#c5a3ff">&lt;h1&gt;</text><text x="240" y="176" fill="#a8e6a3">Hello World</text>
+<text x="160" y="212" fill="#c5a3ff">&lt;/h1&gt;</text>
+<text x="140" y="248" fill="#8bd5ff">&lt;/html&gt;</text>
+</g>
+<path d="M60 335 H540 L500 365 H100Z" fill="#b8c4d5"/>
+<rect x="245" y="323" width="110" height="12" rx="6" fill="#8e9bad"/>
+<text x="300" y="390" font-family="Arial, sans-serif" font-size="18" fill="#253247" text-anchor="middle">WEB DEVELOPMENT</text>
+</svg>

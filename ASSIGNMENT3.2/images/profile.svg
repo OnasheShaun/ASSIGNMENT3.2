@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+<rect width="500" height="500" rx="28" fill="#e8f0fe"/>
+<circle cx="250" cy="175" r="88" fill="#f0c7a4"/>
+<path d="M160 177 Q155 65 250 68 Q350 70 340 180 L320 140 Q275 115 220 130 L180 155Z" fill="#29354b"/>
+<path d="M105 470 Q110 300 250 300 Q390 300 395 470Z" fill="#3867a8"/>
+<circle cx="220" cy="180" r="7" fill="#29354b"/><circle cx="280" cy="180" r="7" fill="#29354b"/>
+<path d="M225 220 Q250 240 275 220" fill="none" stroke="#9b5d4c" stroke-width="7" stroke-linecap="round"/>
+<text x="250" y="445" font-family="Arial, sans-serif" font-size="25" fill="white" text-anchor="middle">PROFILE</text>
+</svg>
